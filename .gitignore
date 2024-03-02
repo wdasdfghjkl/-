@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.vscode
+>>>>>>> 4814e27 (change .gitignore)
+
+/data.txt
+>>>>>>> 5716323 (First)
 # Prerequisites
 *.d
 
@@ -29,4 +39,16 @@
 # Executables
 *.exe
 *.out
+<<<<<<< HEAD
 *.app
+=======
+<<<<<<< HEAD
+*.app
+=======
+*.exe
+.vscode
+>>>>>>> 7601414 (初稿)
+=======
+*.app
+>>>>>>> 4814e27 (change .gitignore)
+>>>>>>> 5716323 (First)
